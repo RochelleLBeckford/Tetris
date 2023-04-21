@@ -24,8 +24,8 @@
 
 - user clicks the Start/Pause button to start the game and the score begins at '0'
 - the game will start and the up coming tetromino [shapes in the game] will appear in the mini display to the right of the game play area 
-    - Once there a row at the bottom is filled across then 10 points will be added each time
-    - the user can start or pause the game 
+    - Once there is a full row at the bottom of the grid then 10 points will be added each time
+    - the user can start or pause the game at anytime
     - ⬆️ rotates the tetromino
     - ⬅️ moves the tetromino to the left 
     - ➡️ moves the tetromino to the right 
