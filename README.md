@@ -13,7 +13,12 @@
 - [ ] user can rotate shapes 
 - [ ] have insider knowledge of what shape is coming up next thanks to the grid side of your grid previewing the shape to come next
 - [ ] won't be levels in this just basic version of the game 
+- [ ] start and pause game function
+- [ ] utilize keyCodes and events
+- [ ] time and intervals
+- [ ] assigning colors to Tetrominoes
 - [ ] will be using HTML, JavaScript, & CSS 
+- [ ] And much More ...
 ***
 ## *The Game:* 
 
