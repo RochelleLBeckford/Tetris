@@ -1,0 +1,53 @@
+/* ~ use display flex to make mini-grid and game grid inline -> want the side by side */
+.container {
+    display: flex;
+}
+
+/* ~ Style the grid */
+.grid {
+    /* 
+    -> the squares will be 20 by 20px -> the grid drawn out is 10 by 20 so width 200px
+    -> height is 400 px
+    */
+    width: 200px;
+    height: 400px;
+    background-color: mediumaquamarine;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* 
+~ Style the 200 div elements in the grid
+-> this states that only want to style the div's only in this element
+-> other div's will be unaffected by this styling
+-> div's stack on top of each other by default -> will need to use flexbox
+*/
+.grid div {
+    height: 20px;
+    width: 20px;
+    /* background-color: darksalmon; */
+}
+
+/* ~ Style the tetromino */
+.tetromino {
+    background-color: salmon;
+}
+
+/* ~ Style mini grid */
+.mini-grid {
+    margin-left: 50px;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: mediumaquamarine;
+}
+
+/* ~ Style the 16 div's for the mini-grid*/
+.mini-grid div {
+    height: 20px;
+    width: 20px;
+    /* background-color: re; */
+}
+
+/*~ assign colors to each of the tetrominoes */
