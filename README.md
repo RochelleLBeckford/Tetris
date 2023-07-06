@@ -19,6 +19,15 @@
 - [ ] assigning colors to Tetrominoes
 - [ ] will be using HTML, JavaScript, & CSS 
 - [ ] And much More ...
+---
+- [ ]  Encompass: 
+    - [ ] HTML 
+    - [ ] CSS
+    - [ ] JavaScript
+- [ ]  HTML → will be the structure and skeleton of how the app will appear on the webpage
+- [ ]  CSS → encompass the style of the app and give it some flare
+- [ ]  JavaScript → provide the functionality of the page
+    - [ ]  If I click or do this → this will happen
 ***
 ## *The Game:* 
 
