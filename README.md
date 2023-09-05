@@ -40,7 +40,10 @@
     - ➡️ moves the tetromino to the right 
     - ⬇️ moves the tetromino faster down the screen
     - the user will be informed when the game is over when the tetrominoes reach the original default position
-        - the word 'end' will appear where the score number is 
+        - the word 'end' will appear where the score number is
+---
+- [ ] Link for the web application: https://ro-tetris-app.netlify.app/
+--- 
 
 
 
